@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Form Properties
+Bundle-SymbolicName: com.plugin.formproperties;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: PLUGIN
+Automatic-Module-Name: com.plugin.formproperties
+Bundle-RequiredExecutionEnvironment: JavaSE-14
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime

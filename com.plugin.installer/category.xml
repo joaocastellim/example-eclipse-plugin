@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <bundle id="com.plugin.helloworld">
+      <category name="com.plugin.installer.categoryhw"/>
+   </bundle>
+   <category-def name="com.plugin.installer.categoryhw" label="Hello World Category">
+      <description>
+         This category has examples of Hello World plugins.
+      </description>
+   </category-def>
+</site>
